@@ -34,3 +34,6 @@ AI Granite: - Menghemat waktu dalam menulis kode dari nol, karena sudah mendapat
 dasar dari AI. - Membantu memahami alur pembuatan chatbot secara lebih terstruktur. -
 Meningkatkan efisiensi proses belajar sekaligus implementasi proyek, meskipun hasil akhirnya
 tetap berdiri sendiri (hanya HTML, CSS, dan JavaScript murni tanpa API)
+
+Untuk mengakses webnya bisa melalui link berikut ini
+https://ramdan-portfolio-chatbot.netlify.app/
