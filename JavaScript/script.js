@@ -83,6 +83,8 @@ function sendMessage() {
     messages.push({ text: input, sender: 'user' });
     displayMessages(); // Update chat window
 
+    document.getElementById('chat-input').value = '';
+
     // Basic AI response
     // Dapatkan respon dari bot (pakai fungsi getBotResponse)
     setTimeout(() => {
